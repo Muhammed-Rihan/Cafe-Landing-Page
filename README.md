@@ -1,4 +1,4 @@
-# caf-Landing-Page
+# Café-Landing-Page
 
 This is a modern, responsive landing page designed for a fictional café. The project showcases clean UI design and smooth user experience, tailored for showcasing a café's offerings, ambience, and services. It highlights essential front-end development skills using HTML, CSS, and JavaScript.
 
