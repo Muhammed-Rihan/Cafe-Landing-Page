@@ -33,7 +33,7 @@
         width: 90vw;
         gap: 20%;
         border: solid 2px bisque;
-        background-image: url('asstes/coffee1img-transformed.jpeg'); /* Replace with your image path */
+        background-image: url('/assets/coffee1img-transformed.jpeg'); /* Replace with your image path */
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -196,47 +196,47 @@
 
 
     #pro1 > .img{
-        background-image: url("asstes/coffee-product 1.jpeg");
+        background-image: url("/assets/coffee-product 1.jpeg");
     }
     #pro2 > .img{
-        background-image: url("asstes/coffee-product 2.jpeg");
+        background-image: url("/assets/coffee-product 2.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat;
     }
     #pro3 > .img{
-        background-image: url("asstes/coffee-product 3.jpeg");
+        background-image: url("/assets/coffee-product 3.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat; /* Prevents the image from repeating */
     }
     #pro4 > .img{
-        background-image: url("asstes/coffee-product 4.jpeg");
+        background-image: url("/assets/coffee-product 4.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat; /* Prevents the image from repeating */
     }
     #pro5 > .img{
-        background-image: url("asstes/coffee-product 5.jpeg");
+        background-image: url("/assets/coffee-product 5.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat; /* Prevents the image from repeating */
     }
     #pro6 > .img{
-        background-image: url("asstes/coffee-product 6.jpeg");
+        background-image: url("/assets/coffee-product 6.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat; /* Prevents the image from repeating */
 
     }
     #pro7 > .img{
-        background-image: url("asstes/coffee-product 7.jpeg");
+        background-image: url("/assets/coffee-product 7.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat; /* Prevents the image from repeating */
     }
     #pro8 > .img{
-        background-image: url("asstes/coffee-product 8.jpeg");
+        background-image: url("/assets/coffee-product 8.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -270,7 +270,7 @@
     .center-content > .right{
         width: 30%;
         height: 100%;
-        background: url('asstes/coffee-banner1.jpeg') no-repeat center;
+        background: url('/assets/coffee-banner1.jpeg') no-repeat center;
         background-size: cover;
     }
 
@@ -415,14 +415,14 @@
     .contact > .left{
         width: 25vw;
         height: 100%;
-        background-image: url("asstes/coffee-banner3.jpeg");
+        background-image: url("/assets/coffee-banner3.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
     }
     .contact > .right{
         width: 25vw;
         height: 100%;
-        background-image: url("asstes/coffee-banner2.jpeg");
+        background-image: url("/assets/coffee-banner2.jpeg");
         background-size: cover; /* Ensures the image covers the div */
         background-position: center; /* Centers the image */
     }
